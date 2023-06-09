@@ -5,3 +5,6 @@ function add(a,b)
 }
 add(10,20);
 
+
+let x= 4;
+console.log(x);
